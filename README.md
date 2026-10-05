@@ -1,16 +1,71 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**laravpaixao-dev/laravpaixao-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💗 Oii, eu sou a Lara!
 
-Here are some ideas to get you started:
+### `coding • learning • creating` ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌷 Estudante de programação • 💻 Tecnologia • ✨ Novos projetos
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎀 Sobre mim
+
+</div>
+
+Olá! Eu sou a **Lara** 👋
+
+Sou estudante e estou começando minha jornada no mundo da programação.
+Aqui no meu GitHub compartilho meus projetos, atividades e tudo que estou aprendendo pelo caminho. 💗
+
+---
+
+<div align="center">
+
+## 💻 Tecnologias
+
+<img src="https://skillicons.dev/icons?i=html,css,php,python,git,github" />
+
+</div>
+
+---
+
+## 🌸 Atualmente aprendendo
+
+* 🌐 HTML
+* 🎨 CSS
+* 🐘 PHP
+* 🐍 Python
+* 🔧 Git e GitHub
+
+---
+
+<div align="center">
+
+## 📊 Meu GitHub
+
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true&border_radius=15" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 Meus projetos
+
+💻 Projetos de HTML e CSS
+🐘 Projetos de PHP
+🐍 Projetos de Python
+📚 Atividades e estudos
+
+---
+
+### ✨ "Aprendendo, criando e evoluindo um código de cada vez."
+
+🌷 💗 💻 💗 🌷
+
+</div>
