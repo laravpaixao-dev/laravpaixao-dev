@@ -47,7 +47,7 @@ Aqui no meu GitHub compartilho meus projetos, atividades e tudo que estou aprend
 
 ## 📊 Meu GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true&border_radius=15" />
+<img src="https://github-readme-stats.vercel.app/api?username=laravpaixao-dev&show_icons=true&theme=radical&hide_border=true&border_radius=15" />
 
 </div>
 
